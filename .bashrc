@@ -161,3 +161,4 @@ unset __conda_setup
 '
 # <<< conda initialize <<<
 alias vim=~/.config/nvim/nvim.appimage
+export STARDICT_DATA_DIR="~/StarDict"

@@ -1,1 +1,1 @@
-/home/quynq/.bashrc
+../.bashrc
